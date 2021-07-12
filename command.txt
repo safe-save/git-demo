@@ -1,0 +1,13 @@
+These are some of the important git commands
+
+git init
+
+git add "filename"
+
+git status
+
+git pull
+
+git commit -m "description"
+
+git push -u origin branch_name
